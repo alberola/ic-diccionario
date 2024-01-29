@@ -8,4 +8,4 @@ Ejemplo de integración continúa para
 * Esto es un ejemplo
 * Esto no es un ejemplo
 
-* Prueba Alejandro
+* Prueba Alejandro.
